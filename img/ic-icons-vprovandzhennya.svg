@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="80" viewBox="0 0 85 80">
+    <g fill="none" fill-rule="evenodd">
+        <g stroke-width="3">
+            <g>
+                <g transform="translate(-1135 -477) translate(1135 477) translate(8 10)">
+                    <circle cx="11" cy="9.9" r="3.3" stroke="#FFBE2E"/>
+                    <circle cx="11" cy="25.3" r="3.3" stroke="#FFBE2E"/>
+                    <circle cx="11" cy="38.5" r="3.3" stroke="#FFBE2E"/>
+                    <circle cx="59.4" cy="9.9" r="3.3" stroke="#FFBE2E"/>
+                    <circle cx="59.4" cy="25.3" r="3.3" stroke="#FFBE2E"/>
+                    <circle cx="59.4" cy="38.5" r="3.3" stroke="#FFBE2E"/>
+                    <rect width="69.3" height="47.3" stroke="#0090CF" stroke-linecap="round" stroke-linejoin="round" rx="3.3"/>
+                    <path stroke="#0090CF" stroke-linecap="round" stroke-linejoin="round" d="M23.1 47.3H45.1V58.3H23.1zM50.05 58.85L18.15 58.85"/>
+                    <path stroke="#FFBE2E" stroke-linecap="round" stroke-linejoin="round" d="M22 17.299L10.781 17.299 10.781 14.167"/>
+                    <path stroke="#FFBE2E" stroke-linecap="round" stroke-linejoin="round" d="M59.4 17.299L48.181 17.299 48.181 13.067" transform="matrix(-1 0 0 1 107.58 0)"/>
+                    <path stroke="#FFBE2E" stroke-linecap="round" stroke-linejoin="round" d="M24.307 32.468L17.6 32.468 17.6 37.976 14.525 37.976"/>
+                    <path stroke="#FFBE2E" stroke-linecap="round" stroke-linejoin="round" d="M55.107 32.468L48.4 32.468 48.4 37.976 45.325 37.976" transform="matrix(-1 0 0 1 100.431 0)"/>
+                    <path stroke="#FFBE2E" stroke-linecap="round" stroke-linejoin="round" d="M30.794 24.2L33.089 26.387 38.532 20.139M55.571 25.3L47.3 25.3M22 25.3L14.829 25.3"/>
+                    <path fill-rule="nonzero" stroke="#0090CF" d="M47.268 16.728c-.036-.81-.036-1.584-.036-2.357 0-.626-.467-1.105-1.078-1.105-4.494 0-7.909-1.326-10.749-4.162-.43-.405-1.078-.405-1.51 0-2.84 2.836-6.254 4.162-10.748 4.162-.61 0-1.078.479-1.078 1.105 0 .773 0 1.547-.036 2.357-.144 7.734-.36 18.342 12.258 22.798l.36.074.36-.074C47.59 35.07 47.411 24.5 47.267 16.728z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

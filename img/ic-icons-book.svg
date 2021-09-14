@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="81" viewBox="0 0 85 81">
+    <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g stroke-width="3">
+            <g>
+                <g>
+                    <g stroke="#0090CF">
+                        <path d="M30.505 25.498c0 2.485 2.014 4.5 4.5 4.5 2.485 0 4.5-2.015 4.5-4.5v41.926c0 2.982-1.5 4.472-4.5 4.472s-4.5-1.49-4.5-4.472V25.498z" transform="translate(-745 -852) translate(745 852) translate(8 4)"/>
+                        <path d="M30.505 25.498C28.108 15.53 17.94 14.283 0 21.758c1.219 12.369 2.557 24.57 4.015 36.606 12.35-2.873 21.179.403 26.49 9.828" transform="translate(-745 -852) translate(745 852) translate(8 4)"/>
+                        <path d="M5.646 19.57L4.91 8.583c10.175-.437 17.207 2.921 21.095 10.074" transform="translate(-745 -852) translate(745 852) translate(8 4)"/>
+                        <path d="M9.671 8.546L9.343 0c13.51.825 20.413 8.633 20.713 23.424" transform="translate(-745 -852) translate(745 852) translate(8 4)"/>
+                        <path d="M70 25.498c-2.396-9.969-12.564-11.215-30.505-3.74 1.22 12.369 2.558 24.57 4.016 36.606C55.86 55.49 64.689 58.767 70 68.192" transform="translate(-745 -852) translate(745 852) translate(8 4) matrix(-1 0 0 1 109.495 0)"/>
+                        <path d="M44.729 19.57l-.735-10.986c10.175-.437 17.207 2.921 21.095 10.074" transform="translate(-745 -852) translate(745 852) translate(8 4) matrix(-1 0 0 1 109.083 0)"/>
+                        <path d="M40.272 8.546L39.944 0c13.51.825 20.413 8.633 20.713 23.424" transform="translate(-745 -852) translate(745 852) translate(8 4) matrix(-1 0 0 1 100.601 0)"/>
+                    </g>
+                    <g stroke="#FFBE2E">
+                        <path d="M0 2.84C2.902-.64 7.926-.922 15.073 1.995M0 8.84c3.857-3.41 8.881-3.691 15.073-.845" transform="translate(-745 -852) translate(745 852) translate(8 4) translate(46 28)"/>
+                    </g>
+                    <g stroke="#FFBE2E">
+                        <path d="M0 2.84C2.902-.64 7.926-.922 15.073 1.995M0 8.84c3.857-3.41 8.881-3.691 15.073-.845" transform="translate(-745 -852) translate(745 852) translate(8 4) matrix(-1 0 0 1 24 28)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

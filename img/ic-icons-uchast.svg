@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="80" viewBox="0 0 85 80">
+    <g fill="none" fill-rule="evenodd">
+        <g stroke-width="3">
+            <g>
+                <g transform="translate(-1135 -843) translate(1135 843) translate(8 15)">
+                    <rect width="69.3" height="41.8" y="8.8" stroke="#0090CF" stroke-linecap="round" stroke-linejoin="round" rx="1.1"/>
+                    <path stroke="#0090CF" stroke-linecap="round" stroke-linejoin="round" d="M5.5 8.634h0v-3.16c0-.593.492-1.074 1.1-1.074h56.1c.608 0 1.1.481 1.1 1.074V8.8h0M9.9 4.4h0V1.184C9.9.53 10.392 0 11 0h47.3c.608 0 1.1.53 1.1 1.184v3.14h0"/>
+                    <path stroke="#FFBE2E" stroke-linecap="round" stroke-linejoin="round" d="M6.6 22c3.596 0 6.511-2.955 6.511-6.6H46.4"/>
+                    <path stroke="#FFBE2E" stroke-linecap="round" stroke-linejoin="round" d="M22 22c3.596 0 6.511-2.955 6.511-6.6H61.8" transform="matrix(-1 0 0 1 83.8 0)"/>
+                    <path stroke="#FFBE2E" stroke-linecap="round" stroke-linejoin="round" d="M6.6 44c3.596 0 6.511-2.955 6.511-6.6H46.4" transform="matrix(1 0 0 -1 0 81.4)"/>
+                    <path stroke="#FFBE2E" stroke-linecap="round" stroke-linejoin="round" d="M22 44c3.596 0 6.511-2.955 6.511-6.6H61.8" transform="rotate(180 41.9 40.7)"/>
+                    <path stroke="#FFBE2E" stroke-linecap="round" stroke-linejoin="round" d="M6.6 22L6.6 37.4M62.7 22L62.7 37.4"/>
+                    <circle cx="34.65" cy="29.15" r="7.15" stroke="#0090CF"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
